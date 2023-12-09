@@ -1,8 +1,8 @@
 Yii2 Shopcart Application (Simple shopcart)
 --------------------------------------------
 
-Store Url: http://yii2-shopcart.local/store
-Backend: http://yii2-shopcart.local/backend/default/index
+Store Url: http://domain/store
+Backend: http://domain/backend/default/index
 
 Default Admin User: admin/123456
 
